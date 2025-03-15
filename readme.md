@@ -82,7 +82,7 @@ python web_test_automation.py --url "https://your-app-url.com" --username "testu
 
 **Real Example (Ollama Website)**
 ```bash
-python web_test_automation.py --url "https://ollama.com/signin" --username "harshainspire19" --password "Micheal@123" --model "llava:latest"
+python web_test_automation.py --url "https://ollama.com/signin" --username "testuser" --password "testpass" --model "llava:latest"
 ```
 
 **Headless Mode**
